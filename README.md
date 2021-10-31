@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @martikan, working at Avinty.
-- 👀 I’m interested in Databases and Spring boot / Python API's.
-- 🌱 I’m currently learning Apacha Kafka, Apacha Kafka Streams.
+- 👀 I’m interested in Databases, Spring Boot and Cloud tech.
 - 📫 ric.martikan@gmail.com
 
 <!---
