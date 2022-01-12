@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @martikan, working at Avinty.
-- 👀 I’m interested in Databases, Spring Boot and Cloud tech.
+- 👀 I’m interested in Databases, Spring Boot and Cloud tech. & ReactJs/Typescript
 - 📫 ric.martikan@gmail.com
 
 <!---
