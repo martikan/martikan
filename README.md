@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @martikan, working at Nokia.
-- 👀 I’m interested in Databases, Spring Boot, Go and Cloud tech. & ReactJs/Typescript
+- 👋 Hi, I’m @martikan, working at Avinty.
 - 📫 ric.martikan@gmail.com
 
 <!---
