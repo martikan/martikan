@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @martikan, working at Avinty.
+- 👋 Hi, I’m @martikan, working at Nokia.
 - 📫 ric.martikan@gmail.com
 
 <!---
